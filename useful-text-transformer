@@ -8,3 +8,5 @@ def remove(filename, *args, **kwargs):
   return text
 
 print(remove("text.txt", "generous", "gallant", fond="amused by", Robin="Mr. Robin"))
+
+#as script.py
